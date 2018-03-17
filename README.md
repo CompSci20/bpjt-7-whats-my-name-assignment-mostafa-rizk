@@ -11,6 +11,7 @@ running, the output should appear similar to that below:
 	Your full name is Cosmo Kramer.
 
 Hint 1: You should be storing the values from kbReader into variables
+
 Hint 2: To get the question and your keyboard input on the same line, do not add "ln to the end of System.out.print
 
 Remember to import java.io.* and java.util.* otherwise you won't be able to create a Scanner object
